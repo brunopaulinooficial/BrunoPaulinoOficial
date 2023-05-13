@@ -3,4 +3,4 @@
 - 👨🏻‍💻 Me desenvolvendo no Back-end
 - ☕ Estudando Java 
 
-![Snake animation](https://github.com/brunopaulinooficial/BrunoPaulinoOficial/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/brunopaulinooficial/brunopaulinooficial/blob/output/github-contribution-grid-snake.svg)
